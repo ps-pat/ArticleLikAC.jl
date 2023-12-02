@@ -1,0 +1,9 @@
+name = "ArticleLikAC"
+uuid = "c4471b5c-fbd1-4ccb-9dfe-ad39796d724d"
+authors = ["Patrick Fournier <p_fournier@hushmail.com>"]
+version = "0.1.0"
+
+[deps]
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
+Simulations = "778192d3-ef18-4ce5-814b-6356444560f1"
