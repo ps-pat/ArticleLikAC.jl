@@ -1449,9 +1449,11 @@ version = "0.9.4"
 
 [[deps.Simulations]]
 deps = ["DataFrames", "JLD2", "MPI", "MPIPreferences", "Moosh", "PrecompileTools", "Random", "RandomNumbers", "SpecialFunctions", "StatsBase"]
-git-tree-sha1 = "9308fd528f7094b3e5cbe44c35721549f10e6fa2"
+git-tree-sha1 = "61b266e08b65ae08878e683c5d1c3998550f88c4"
+repo-rev = "master"
+repo-url = "../Simulations"
 uuid = "778192d3-ef18-4ce5-814b-6356444560f1"
-version = "0.1.43"
+version = "0.1.45"
 
 [[deps.Sixel]]
 deps = ["Dates", "FileIO", "ImageCore", "IndirectArrays", "OffsetArrays", "REPL", "libsixel_jll"]
