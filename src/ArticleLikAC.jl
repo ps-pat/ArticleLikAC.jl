@@ -1,3 +1,1 @@
-module ArticleLikAC
-
-end
+module ArticleLikAC end
