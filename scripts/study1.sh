@@ -7,6 +7,6 @@
 #SBATCH --mail-user=fournier.patrick@uqam.ca
 #SBATCH --mail-type=ALL
 
-module load StdEnv openmpi julia/1.9.1
+module load StdEnv/2023 openmpi julia/1.9.3
 
 srun julia --project=../. ../src/study1.jl
