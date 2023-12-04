@@ -1449,7 +1449,7 @@ version = "0.9.4"
 
 [[deps.Simulations]]
 deps = ["DataFrames", "JLD2", "MPI", "MPIPreferences", "Moosh", "PrecompileTools", "Random", "RandomNumbers", "SpecialFunctions", "StatsBase"]
-git-tree-sha1 = "61b266e08b65ae08878e683c5d1c3998550f88c4"
+git-tree-sha1 = "85bbac0dab919d19eb0c0a929c84343442fbc57a"
 repo-rev = "master"
 repo-url = "../Simulations"
 uuid = "778192d3-ef18-4ce5-814b-6356444560f1"
