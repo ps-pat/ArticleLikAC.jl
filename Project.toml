@@ -6,4 +6,5 @@ version = "0.1.0"
 [deps]
 MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
+Moosh = "99b31415-443e-43a2-8bf4-ca532bb4a161"
 Simulations = "778192d3-ef18-4ce5-814b-6356444560f1"
