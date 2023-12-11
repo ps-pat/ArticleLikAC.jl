@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH --job-name=study1
-#SBATCH --time=02:00:00
+#SBATCH --time=08:00:00
 #SBATCH --account=def-fabricel
-#SBATCH --ntasks=150
-#SBATCH --mem-per-cpu=1200M
+#SBATCH --ntasks=30
+#SBATCH --mem-per-cpu=1500M
 #SBATCH --mail-user=fournier.patrick@uqam.ca
 #SBATCH --mail-type=ALL
 

@@ -1,9 +1,6 @@
 [MPIPreferences]
-__clear__ = ["preloads_env_switch"]
 _format = "1.0"
 abi = "OpenMPI"
 binary = "system"
-cclibs = []
-libmpi = "libmpi"
-mpiexec = "mpiexec"
-preloads = []
+libmpi = "/cvmfs/soft.computecanada.ca/easybuild/software/2023/x86-64-v3/Compiler/gcc12/openmpi/4.1.5/lib64/libmpi.so"
+mpiexec = "/cvmfs/soft.computecanada.ca/easybuild/software/2023/x86-64-v3/Compiler/gcc12/openmpi/4.1.5/bin/mpiexec"
